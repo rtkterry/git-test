@@ -1,17 +1,17 @@
 Customer="COSHIP" 
 Model="43HFA5857"
-if
+#if
 Region="xxx--CN"
-else
+#else
 Region="CN---Terry"
-endif
+#endif
 Chip="RTD2634"
 PCB="PCB-715G6682"
 Panel="LVG430DUYA1ADS2H0X"
 UI="COSHIP"
 NandFlash="MXIC_MX25L12835FM2I"
 BootLogo="JPG"
-IS2D3D="2D"
+IS2D3D="2D"xxx
 IS2D3D="2D"
 
 
